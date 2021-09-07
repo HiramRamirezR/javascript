@@ -55,11 +55,11 @@ console.log(resultado) */
 
 /* console.log("Ejercicio 5")
 let var1E5 = parseInt(prompt("Ingresa un número entre 1 y 100"))
-let var2E5 = var1E5 % 2
+let var2E5 = var1E5 % 2 */
 
-num % 2 === 0
+/* num % 2 === 0 */
 
-if (var1E5 < 1 || var1E5 > 100) {
+/* if (var1E5 < 1 || var1E5 > 100) {
     var1E5 = parseInt(prompt("Ingresa un número entre 1 y 100"))
 }
 

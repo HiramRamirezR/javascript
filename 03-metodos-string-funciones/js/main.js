@@ -86,7 +86,7 @@ function longestWord(){
     for 
 } */
 
-let text1 = 'buenas pupis';
+/* let text1 = 'buenas noches';
 let text2 = 'feliz cumpleaños';
 
 function longestWord(str) {
@@ -99,4 +99,7 @@ function longestWord(str) {
 }
 
 console.log(longestWord(text1));
-console.log(longestWord(text2));
+console.log(longestWord(text2)); */
+
+// ---------------------------------------------------------------------------------------------
+

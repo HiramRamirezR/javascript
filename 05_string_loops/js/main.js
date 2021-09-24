@@ -1,3 +1,13 @@
+/* function reverse(word) {
+    let result = '';
+    for (let i = word.length - 1; i >=0; i--) {
+     result += word[i];
+    }
+    console.log(result);
+   }
+   
+reverse('reloj'); */
+
 /*-----------------------------------Ejercicio 1
 Deducir:
 input: anaconda
@@ -24,28 +34,36 @@ console.log(deducir("belzeebub"))
 console.log(deducir("koder"))
 console.log(deducir("cerveza")) */
 
-/* -----------------------------------Ejercicio 2
+//-----------------------------------Ejercicio 2
 
-let num = Number(prompt("Ingresa un número del 1 al 10"))
+/* let num = Number(prompt("Ingresa un número del 1 al 10"))
 
 for (let i = 1 ; i <= 10 ; i ++) {
     console.log(num + " x " + i + " = " + num*i)
-}
- */
+} */
+
 
 //-----------------------------------Ejercicio 3
+/* let num = Number(prompt("Ingresa un número del 10 al 100"))
+if (num >= 10 && num <= 100) {
+    for (let i = 1; i <= num; i++) {
+        if (i%2===2){
+            console.log(i)
+        }
+    }
+} */
+
 //-----------------------------------Ejercicio 4
-//alert("asdf")
-/* let cantidad = "1234"
+
+/* let cantidad = 12
 let i = 0
-let j = ""
+let suma = ""
 
 while (i < cantidad.length) {
-    j += cantidad[i]
+    suma += Number(cantidad[i])
     i++
 }
-
-console.log(j) */
+console.log(suma) */
 
 //-----------------------------------Ejercicio 5
 
@@ -56,7 +74,7 @@ let two = asterix
     asterix = asterix + two
 } */
 
-for (i = "*"; i.length < 11; i += "*"){
+/* for (i = "*"; i.length < 11; i += "*"){
     console.log(i)
-}
+} */
 
